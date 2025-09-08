@@ -1,0 +1,20 @@
+{
+  "name": "feather-form",
+  "version": "1.0.0",
+  "description": "a simple ui libraray for form components",
+  "homepage": "https://github.com/KattachaithanyaKumar/feather-ui-form#readme",
+  "bugs": {
+    "url": "https://github.com/KattachaithanyaKumar/feather-ui-form/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KattachaithanyaKumar/feather-ui-form.git"
+  },
+  "license": "MIT",
+  "author": "chaithanya-kumar-katta",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
